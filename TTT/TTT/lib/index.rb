@@ -1,1 +1,0 @@
-puts "Greetings User"
